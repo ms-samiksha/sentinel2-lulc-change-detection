@@ -1,0 +1,44 @@
+[
+ {
+  "id": "tile_009_patch_00150",
+  "group": "best change IoU (Part 4)",
+  "parent_tile": "tile_009",
+  "split": "test"
+ },
+ {
+  "id": "tile_013_patch_00208",
+  "group": "median change IoU (Part 4)",
+  "parent_tile": "tile_013",
+  "split": "test"
+ },
+ {
+  "id": "tile_003_patch_00060",
+  "group": "worst change IoU (Part 4)",
+  "parent_tile": "tile_003",
+  "split": "test"
+ },
+ {
+  "id": "tile_017_patch_00285",
+  "group": "worst transition acc (Part 4)",
+  "parent_tile": "tile_017",
+  "split": "test"
+ },
+ {
+  "id": "tile_043_patch_00696",
+  "group": "seeded random (Part 4)",
+  "parent_tile": "tile_043",
+  "split": "test"
+ },
+ {
+  "id": "tile_003_patch_00062",
+  "group": "seeded random (Part 4)",
+  "parent_tile": "tile_003",
+  "split": "test"
+ },
+ {
+  "id": "tile_049_patch_00795",
+  "group": "seeded random (Part 4)",
+  "parent_tile": "tile_049",
+  "split": "test"
+ }
+]

@@ -1,0 +1,92 @@
+{
+ "ignore_label": 255,
+ "transition_encoding": "transition_id = from_class * 4 + to_class",
+ "n_lulc_classes": 4,
+ "transitions": {
+  "0": {
+   "from_class": 0,
+   "to_class": 0,
+   "kind": "stay"
+  },
+  "1": {
+   "from_class": 0,
+   "to_class": 1,
+   "kind": "change"
+  },
+  "2": {
+   "from_class": 0,
+   "to_class": 2,
+   "kind": "change"
+  },
+  "3": {
+   "from_class": 0,
+   "to_class": 3,
+   "kind": "change"
+  },
+  "4": {
+   "from_class": 1,
+   "to_class": 0,
+   "kind": "change"
+  },
+  "5": {
+   "from_class": 1,
+   "to_class": 1,
+   "kind": "stay"
+  },
+  "6": {
+   "from_class": 1,
+   "to_class": 2,
+   "kind": "change"
+  },
+  "7": {
+   "from_class": 1,
+   "to_class": 3,
+   "kind": "change"
+  },
+  "8": {
+   "from_class": 2,
+   "to_class": 0,
+   "kind": "change"
+  },
+  "9": {
+   "from_class": 2,
+   "to_class": 1,
+   "kind": "change"
+  },
+  "10": {
+   "from_class": 2,
+   "to_class": 2,
+   "kind": "stay"
+  },
+  "11": {
+   "from_class": 2,
+   "to_class": 3,
+   "kind": "change"
+  },
+  "12": {
+   "from_class": 3,
+   "to_class": 0,
+   "kind": "change"
+  },
+  "13": {
+   "from_class": 3,
+   "to_class": 1,
+   "kind": "change"
+  },
+  "14": {
+   "from_class": 3,
+   "to_class": 2,
+   "kind": "change"
+  },
+  "15": {
+   "from_class": 3,
+   "to_class": 3,
+   "kind": "stay"
+  }
+ },
+ "binary": {
+  "change": 1,
+  "no_change": 0
+ },
+ "lulc_class_names": "NOT AVAILABLE in the dataset metadata"
+}

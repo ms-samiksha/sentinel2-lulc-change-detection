@@ -1,0 +1,22 @@
+{
+ "norm_clip": 10.0,
+ "band_names": [
+  "B2 blue*",
+  "B3 green",
+  "B4 red",
+  "B8 NIR",
+  "B11 SWIR1",
+  "B12 SWIR2",
+  "NDVI",
+  "NDWI",
+  "NDBI"
+ ],
+ "band_order_verified": true,
+ "patch_size": 128,
+ "channels": 9,
+ "change_id": 1,
+ "no_change_id": 0,
+ "n_lulc": 4,
+ "tf_version": "2.20.0",
+ "keras_version": "3.13.2"
+}

@@ -1,0 +1,6 @@
+{
+ "file": "bt_ssscnet_best_val_loss.keras",
+ "sha256": "d1b88f7c98db642c90849f73a22a0b11b724e26764dfee8eefd2751ddabfaf2b",
+ "parameters": 4795759,
+ "reference": "EVAL_MODELS['best_val_loss']"
+}
