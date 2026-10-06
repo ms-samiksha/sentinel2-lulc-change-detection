@@ -1,0 +1,7 @@
+streamlit>=1.33
+numpy
+pandas
+matplotlib
+tensorflow>=2.16
+# If the model fails to load, replace the tensorflow line with the exact version recorded in
+# sample_data/preprocessing_config.json ("tf_version"), e.g.  tensorflow==2.18.0
